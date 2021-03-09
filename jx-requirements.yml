@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: apps.p.aws.ocp.gepardec.com
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
